@@ -1,4 +1,4 @@
 # tarunshrma.demo
 This is my first Git Repository.
 <br>
-Author - Tarun Sharma.
+Author - Tarun Sharma
